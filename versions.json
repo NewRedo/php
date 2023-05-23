@@ -1,28 +1,8 @@
 {
-  "8.0": {
-    "ascUrl": "https://www.php.net/distributions/php-8.0.28.tar.xz.asc",
-    "sha256": "5e07278a1f315a67d36a676c01343ca2d4da5ec5bdb15d018e4248b3012bc0cd",
-    "url": "https://www.php.net/distributions/php-8.0.28.tar.xz",
-    "variants": [
-      "bullseye/cli",
-      "bullseye/apache",
-      "bullseye/fpm",
-      "bullseye/zts",
-      "buster/cli",
-      "buster/apache",
-      "buster/fpm",
-      "buster/zts",
-      "alpine3.16/cli",
-      "alpine3.16/fpm",
-      "alpine3.16/zts"
-    ],
-    "version": "8.0.28"
-  },
-  "8.0-rc": null,
-  "8.1": {
-    "ascUrl": "https://www.php.net/distributions/php-8.1.19.tar.xz.asc",
-    "sha256": "f42f0e93467415b2d30aa5b7ac825f0079a74207e0033010383cdc1e13657379",
-    "url": "https://www.php.net/distributions/php-8.1.19.tar.xz",
+  "5.6": {
+    "ascUrl": "https://www.php.net/distributions/php-5.6.40.tar.xz.asc",
+    "sha256": "1369a51eee3995d7fbd1c5342e5cc917760e276d561595b6052b21ace2656d1c",
+    "url": "https://www.php.net/distributions/php-5.6.40.tar.xz",
     "variants": [
       "bullseye/cli",
       "bullseye/apache",
@@ -39,30 +19,7 @@
       "alpine3.17/fpm",
       "alpine3.17/zts"
     ],
-    "version": "8.1.19"
+    "version": "5.6.40"
   },
-  "8.1-rc": null,
-  "8.2": {
-    "ascUrl": "https://www.php.net/distributions/php-8.2.6.tar.xz.asc",
-    "sha256": "10b796f0ed45574229851212b30a596a76e70ae365322bcaaaf9c00fa7d58cca",
-    "url": "https://www.php.net/distributions/php-8.2.6.tar.xz",
-    "variants": [
-      "bullseye/cli",
-      "bullseye/apache",
-      "bullseye/fpm",
-      "bullseye/zts",
-      "buster/cli",
-      "buster/apache",
-      "buster/fpm",
-      "buster/zts",
-      "alpine3.18/cli",
-      "alpine3.18/fpm",
-      "alpine3.18/zts",
-      "alpine3.17/cli",
-      "alpine3.17/fpm",
-      "alpine3.17/zts"
-    ],
-    "version": "8.2.6"
-  },
-  "8.2-rc": null
+  "5.6-rc": null
 }
